@@ -1,6 +1,5 @@
 {
     "name": "itelix/bundle",
-    "type": "symfony-bundle",
     "authors": [
         {
             "name": "Artur Niemczyk",

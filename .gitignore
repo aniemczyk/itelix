@@ -14,6 +14,5 @@ application/data/logs/*.log
 application/data/import/*
 application/data/session/*
 application/data/uploads/*
-vendor/*
 composer.lock
 .gitmodules
